@@ -17,7 +17,9 @@ The project is to solve Stereo Disparity based on dataset provided by COMP90086 
 
 ## Dataset
 
-The dataset can be found in [DrivingStereo](https://drivingstereo-dataset.github.io/) which is a large-scale dataset for stereo matching in autonomous driving scenarios collected by Yang, Guorun and Song, Xiao and Huang, Chaoqin and Deng, Zhidong and Shi, Jianping and Zhou, Bolei. We expect that you can put any required images under the folder called **Dataset**. Also, the folder should be put under the same directory aligning with our [Project.ipynb](Project.ipynb).
+The dataset can be found in [DrivingStereo](https://drivingstereo-dataset.github.io/) which is a large-scale dataset for stereo matching in autonomous driving scenarios collected by Yang, Guorun and Song, Xiao and Huang, Chaoqin and Deng, Zhidong and Shi, Jianping and Zhou, Bolei. 
+
+We expect that you can put any required images under the folder called **Dataset**. Also, the folder should be put under the same directory aligning with our [Project.ipynb](Project.ipynb).
 
 
 ## To re-create our work
